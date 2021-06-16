@@ -40,4 +40,7 @@ An innovative and enthusiastic pythoneer from Mumbai.
 <!-- language usage: -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hbaig05546&show_icons=true&locale=en&layout=compact" alt="Hbaig05546" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hbaig05546&show_icons=true&locale=en" alt="Hbaig05546" /></p>
+
+
 
