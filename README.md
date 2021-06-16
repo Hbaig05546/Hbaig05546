@@ -16,7 +16,7 @@ An innovative and enthusiastic pythoneer from Mumbai.
 <a href="https://twitter.com/HamzaKhalidBai1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="HamzaKhalidBai1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hamza-baig-81b3a7123/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hamza-baig-81b3a7123" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13716228/hamza-khalid-baig?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13716228" height="30" width="40" /></a>
-<a href="https://www.instagram.com/hmza_kb/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg" alt="hmza_kb" height="30" width="40" /></a>
+<a href="https://www.instagram.com/hmza_kb/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" alt="hmza_kb" height="30" width="40" /></a>
 </p>
 
 
