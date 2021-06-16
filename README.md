@@ -37,5 +37,7 @@ An innovative and enthusiastic pythoneer from Mumbai.
   <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 </p>
 
+<!-- language usage: -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hbaig05546&show_icons=true&locale=en&layout=compact" alt="Hbaig05546" /></p>
 
 
