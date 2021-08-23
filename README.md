@@ -3,7 +3,7 @@
 An innovative and enthusiastic pythoneer from Mumbai.
 
 - 🔭 I’m currently working on My portfolio website :)
-- 🌱 I’m currently learning  Django
+- 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on improving the world 😃.
 - 🤔 I’m looking for help with 
 - 💬 Ask me about Python3
