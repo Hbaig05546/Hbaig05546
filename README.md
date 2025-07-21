@@ -41,9 +41,21 @@
 </p>
 
 <!-- =============================== GITHUB STATS =============================== -->
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hbaig05546&layout=compact&theme=default" alt="Top Langs">
+<p align="center">
+  <!-- Overall GitHub stats -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hbaig05546&show_icons=true&theme=default" alt="Hamza's GitHub Stats">
+  
+  <!-- Top languages -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hbaig05546&layout=compact&theme=default" alt="Top Languages">
 </p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hbaig05546&show_icons=true&theme=default" alt="GitHub Stats">
+
+<!-- Contribution streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hbaig05546&theme=default" alt="GitHub Streak">
 </p>
+
+<!-- Trophy shelf -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hbaig05546&theme=flat&no-frame=true&margin-w=10" alt="GitHub Trophies">
+</p>
+
